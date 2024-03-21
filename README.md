@@ -8,4 +8,4 @@ MD SAFIUL ALAM SARKER : safiulalamsarker@gmail.com ANIK MAHMUD SHANTO: u1904049@
 
 # Description:
 
-An app to make blood donation easier and more secure
+An app to make blood donation easier
