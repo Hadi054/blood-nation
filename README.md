@@ -8,7 +8,7 @@ MD SAFIUL ALAM SARKER : safiulalamsarker@gmail.com ANIK MAHMUD SHANTO: u1904049@
 
 # Bloodnation
 
-Bloodnation is a mobile application developed as part of a university project, driven by the aspiration to contribute meaningfully to society. The app is designed using Flutter and integrates Firebase for user authentication, real-time database management with Firestore, and secure storage capabilities. Although not fully implemented, the project lays a strong foundation and has significant potential for further development and enhancement.
+Bloodnation is a mobile application developed as part of a university project, driven by the aspiration to contribute meaningfully to society. The app is designed using Flutter and integrates Firebase for user authentication, real-time database management with Firestore, and secure storage capabilities. 
 
 The primary goal of Bloodnation is to create a platform where individuals in need of blood can easily connect with potential donors. By simplifying the process of posting requests, searching for donors based on location and blood group, and enabling direct communication, the app has the potential to save lives and foster a community of mutual support. It serves as a stepping stone towards addressing the challenges of timely blood donation and accessibility, making a difference in emergencies and regular medical needs.
 
